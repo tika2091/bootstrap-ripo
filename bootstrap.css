@@ -1,0 +1,76 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	}
+
+
+
+.navbar-brand{
+	background-color:#4aaaa5;
+
+}
+
+.panel-title{
+	font-color:#4aaaa5;
+}
+
+
+
+
+.container-fluid{
+
+		width:100%;
+		max-width:960px;
+		}
+
+.container{
+width:100%
+max-width:960;
+
+
+
+}
+
+
+
+h1{
+	color:#4aaaa5;
+	font-family:georgia;
+	font-size:150%;
+
+}
+
+h3{
+color:#4aaaa5;
+font-family:georgia;
+text-align:center;
+
+}
+.connect{
+margin-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+footer{
+	width:100%;
+	margin:0;
+	height:90px;
+	clear: both;
+	background-color: #666;
+	border:2px solid black;
+	position:fixed;
+	bottom:0;
+	text-align: center;
+	padding-top:30px;
+	font-size:90%;
+	color:#ddd;
+
+	}
